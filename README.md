@@ -1,2 +1,2 @@
 # FI-Wiki
-FarmingIsland network wiki
+* Nothing.
